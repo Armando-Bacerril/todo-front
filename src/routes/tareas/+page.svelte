@@ -244,20 +244,6 @@
         gap: 1rem;
         margin-bottom: 2rem;
     }
-
-    /* Estilos para el fondo general y sombras */
-    body {
-        background-color: #f7f7f7;
-        margin: 0;
-        padding: 0;
-    }
-
-    /* Resaltar el texto de advertencia en las alertas */
-    .alerta {
-        color: red;
-        font-weight: bold;
-    }
-
     /* Efectos de transición y hover */
     button, .nav-button, .eliminar {
         transition: all 0.3s ease;
