@@ -183,17 +183,5 @@
       color: red;
       margin: 5px 0 0;
     }
-  
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #eef2f7;
-      color: #333;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
   </style>
   
